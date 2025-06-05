@@ -12,3 +12,9 @@ Currently, I'm an Intern at Infosys Springboard, exploring real-world tech appli
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit_nandera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitnandera) 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit-Innovates/Ankit-Innovates/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit-Innovates/Ankit-Innovates/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ankit-Innovates/Ankit-Innovates/output/github-snake.svg" />
+</picture>
